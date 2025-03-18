@@ -111,7 +111,7 @@ def generate_vehicle_data(device_id):
         'id' : uuid.uuid4(),
         'device_id' : device_id,
         'timestamp': get_next_time().isoformat(),
-        'location' : (location['latitude'], location['longitude']),
+        'location' : {'latitude': location['latitude'], 'longitude': location['longitude']},
         'speed': random.uniform(10, 40),
         'direction': 'north-east',
         'make' : 'BMW',
