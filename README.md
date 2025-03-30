@@ -1,6 +1,6 @@
 # Smart City Real-Time Data Engineering Pipeline
 
-The Smart City Real-Time Data Engineering Pipeline is designed to ingest, process, and visualize real-time data from IoT devices deployed across urban environments. By leveraging a suite of modern data engineering tools, this project facilitates the collection and analysis of data related to traffic conditions, weather patterns, emergency incidents, and more, thereby supporting informed decision-making for city management and enhancing the quality of urban life.
+The Smart City Real-Time Data Engineering Pipeline is designed to ingest, process, and visualize real-time data from IoT devices deployed across urban environments.
 
 ## System Architecture
 
